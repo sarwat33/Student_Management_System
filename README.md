@@ -1,4 +1,4 @@
-###Student Management System<hr><br><br>
+Student Management System<hr><br><br>
 
 
 
